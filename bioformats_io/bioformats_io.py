@@ -9,13 +9,13 @@ Copyright (c) 2008 Idiap Research Institute, http://www.idiap.ch/
 Written by Olivia Mariani <olivia.mariani@idiap.ch>
 Adrian Shajkofci <adrian.shajkofci@idiap.ch>
 
-This file is part of Unshearing.
+This file is part of bioformats_io.
 
-Unshearing is a free software: you can redistribute it and/or modify
+bioformats_io is a free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License version 3 as
 published by the Free Software Foundation.
 
-Unshearing is distributed in the hope that it will be useful,
+bioformats_io is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
